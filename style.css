@@ -1,0 +1,11 @@
+#thumbnailContainer {
+  display: flex;
+}
+
+img {
+  height: 15vh;
+}
+
+#displayImage > * {
+  height: 90vh;
+}
